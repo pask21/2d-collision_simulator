@@ -1,0 +1,12 @@
+# Compiled files
+atom
+atom_metal
+*.o
+*.out
+
+# macOS
+.DS_Store
+*.dSYM
+
+# Archives
+*.zip
